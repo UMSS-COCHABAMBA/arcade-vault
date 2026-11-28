@@ -14,15 +14,9 @@ https://github.com/Klerith/fernando-skills
 ```bash
 npx skills@latest add Klerith/fernando-skills
 ```
-
 ## HOLA MUNDO, ESTO ES UNA PRUEBA
-
 ## OTRA PRUEBA
-
 ## OTRA PRUEBA MAS..............
-
 ## OTRA PRUEBA MAS..............
-
 ## OTRA PRUEBA MAS..............
-
 ## ESTA ES OTRA PRUEBA DESDE LA RAMA NUMERO 02-REEDITCONFIG
